@@ -1,5 +1,5 @@
 ### Hi folks! Ahsan Tariq Here.. 👋
-### Student Of BESE ✨
+### Student Of BESE | NED-UET ✨
 
 
 - 🔭 I’m currently working on Python and Javascript.
