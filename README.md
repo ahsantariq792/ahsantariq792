@@ -27,7 +27,7 @@
 <img height="32" width="32" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" />
 <img height="32" width="46" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
 
-## DataBase
+## <i class="fas fa-database"></i> DataBase
 
 <img height="32" width="32" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" />
 
