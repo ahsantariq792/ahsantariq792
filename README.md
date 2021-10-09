@@ -2,9 +2,9 @@
   ### Student Of BE Software Engineering | NED-UET | :pakistan: ✨
 
 
-- 🔭 I’m currently working on Python C++ and Javascript :black_heart: :black_heart:
-- 🌱 I’m currently learning HTML/CSS/React :fire:
-- 👯 I’m looking to collaborate on Python C# C++ Projects :boom:
+- 🔭 I’m currently working on Python C++ Javascript and React :black_heart: :black_heart:
+- 🌱 I’m currently learning MERNstack Development :fire:
+- 👯 I’m looking to collaborate on Web development Projects :boom:
 - 💬 Ask me about any query, I will definitely help if I know that... :slightly_smiling_face:
 - 😄 Pronouns: He/His.
 - ⚡ Hobby: Gaming  :sunglasses::video_game::heart::heavy_heart_exclamation:....
@@ -18,6 +18,7 @@
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
+<img height="32" width="32" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" />
 
 ## &#x1f4c8; GitHub Stats
 
