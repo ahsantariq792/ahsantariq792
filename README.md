@@ -20,6 +20,11 @@
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 <img height="32" width="32" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" />
 
+<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
+
+
+
+
 ## &#x1f4c8; GitHub Stats
 
 ![Ahsan's github stats](https://github-readme-stats.vercel.app/api?username=ahsantariq792&count_private=true&hide=prs&show_icons=true&theme=chartreuse-dark)
