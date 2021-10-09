@@ -9,6 +9,12 @@
 - 😄 Pronouns: He/His.
 - ⚡ Hobby: Gaming  :sunglasses::video_game::heart::heavy_heart_exclamation:....
 
+<p align="center">
+<img src="http://slinky.me/uploads/pic/8/slinky_me_54956135c9496.gif" >
+</p>
+
+
+
 ## 💻🔧 Languages & Tools
 
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />                         <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
