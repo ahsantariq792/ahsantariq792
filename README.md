@@ -29,7 +29,7 @@
 
 ## DataBase
 
-<img height="32" width="38" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" />
+<img height="32" width="32" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" />
 
 ## &#x1f4c8; GitHub Stats
 
