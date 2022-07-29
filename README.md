@@ -43,7 +43,7 @@
 
 <img align="left" width="100" height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsantariq792&theme=synthwave">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsantariq792&theme=highcontrast&langs_count=8)](https://github.com/ahsantariq792/github-readme-stats)
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ahsantariq792&theme=synthwave) 
 
