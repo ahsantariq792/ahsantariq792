@@ -38,10 +38,7 @@
 <!-- ![Ahsan's github stats](https://github-readme-stats.vercel.app/api?username=ahsantariq792&count_private=true&hide=prs&show_icons=true&theme=chartreuse-dark) -->
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahsantariq792&show_icons=true&theme=synthwave" alt="ahsantariq792" /> </p>
 
-
-<img align="left" width="100" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsantariq792&theme=highcontrast&langs_count=8">
-
-<img align="right" width="100" height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsantariq792&theme=synthwave">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsantariq792&theme=highcontrast&langs_count=8)](https://github.com/ahsantariq792/github-readme-stats)
 
 
 
