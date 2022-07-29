@@ -1,13 +1,14 @@
-### Hi folks! Sheikh Muhammad Ahsan Tariq Here.. 👋
-  ### Student Of BE Software Engineering | NED-UET | :pakistan: ✨
+<h1 align="center">Hi folks! Sheikh Muhammad Ahsan Tariq Here.. 👋 </h1>
+<h1 align="center">Student Of BE Software Engineering | NED-UET | :pakistan: ✨</h1>
 
-
-- 🔭 I’m currently working on Python C++ Javascript and React :black_heart: :black_heart:
-- 🌱 I’m currently learning MERNstack Development :fire:
+- 🔭 I’m currently working on Python C++ Javascript React React Native and MERNstack Development:black_heart: :black_heart:
+- 🌱 I’m currently learning BlockChain :fire:
 - 👯 I’m looking to collaborate on Web development Projects :boom:
 - 💬 Ask me about any query, I will definitely help if I know that... :slightly_smiling_face:
 - 😄 Pronouns: He/His.
 - ⚡ Hobby: Gaming  :sunglasses::video_game::heart::heavy_heart_exclamation:....
+- 📫 How to reach me **ahsantariq792@gmail.com**
+- 👨‍ Check me out at LinkedIn **https://www.linkedin.com/in/ahsan-tariq-399897212**
 
 <p align="center">
 <img src="http://slinky.me/uploads/pic/8/slinky_me_54956135c9496.gif" >
