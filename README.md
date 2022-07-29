@@ -35,8 +35,8 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![Ahsan's github stats](https://github-readme-stats.vercel.app/api?username=ahsantariq792&count_private=true&hide=prs&show_icons=true&theme=chartreuse-dark)
-
+<!-- ![Ahsan's github stats](https://github-readme-stats.vercel.app/api?username=ahsantariq792&count_private=true&hide=prs&show_icons=true&theme=chartreuse-dark) -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahsantariq792&show_icons=true&theme=synthwave" alt="rupam-shil" /> </p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsantariq792&theme=highcontrast&langs_count=8)](https://github.com/ahsantariq792/github-readme-stats)
 
 
