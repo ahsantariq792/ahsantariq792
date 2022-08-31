@@ -51,9 +51,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahsantariq792&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahsantariq792&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ahsantariq792&theme=synthwave) 
 </p>
 <br/>
+
+  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ahsantariq792&theme=synthwave) 
 
 <!-- ![Ahsan's github stats](https://github-readme-stats.vercel.app/api?username=ahsantariq792&count_private=true&hide=prs&show_icons=true&theme=chartreuse-dark) -->
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahsantariq792&show_icons=true&theme=synthwave" alt="ahsantariq792" /> </p> -->
