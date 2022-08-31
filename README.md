@@ -45,6 +45,11 @@
 
 ## &#x1f4c8; GitHub Stats
 
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=ahsantariq792&style=flat&color=brightgreen"> •  <img src="https://user-badge.committers.top/pakistan/ahsantariq792.svg"></a> •
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ahsantariq792?label=Followers&style=social"> •
+  <img src="https://img.shields.io/github/stars/ahsantariq792?label=Star" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
+  <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+  
 <br/>
 <p align="center">
 <a href="https://github.com/AVS1508">
@@ -66,6 +71,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsantariq792&theme=highcontrast&langs_count=8)](https://github.com/ahsantariq792/github-readme-stats)
 
-
+<!-- Contribution graph -->
 <img src="https://activity-graph.herokuapp.com/graph?username=ahsantariq792&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
+
 
