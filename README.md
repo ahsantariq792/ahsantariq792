@@ -10,9 +10,9 @@
 - 📫 How to reach me **ahsantariq792@gmail.com**
 - 👨‍ Check me out at LinkedIn **https://www.linkedin.com/in/ahsan-tariq-399897212**
 
-<!-- <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTENqHmmRXf4eKZsLmSx2E-4odiXy5fLxiLfw&usqp=CAU" >
-</p> -->
+<p align="center">
+<img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" >
+</p>
 
 
 
