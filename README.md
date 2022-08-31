@@ -43,19 +43,13 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![MongoDB](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=MongoDB)
 
-<!-- 
-## DataBase
-
-<img height="32" width="32" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" />
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> -->
-
 ## &#x1f4c8; GitHub Stats
 
 <br/>
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=haris-aqeel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haris-aqeel&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahsantariq792&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahsantariq792&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <br/>
