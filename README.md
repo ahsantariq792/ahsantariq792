@@ -18,7 +18,7 @@
 
 ## 💻🔧 Languages & Tools
 
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />                         <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<!-- <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />             <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -26,7 +26,7 @@
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 <img height="32" width="32" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" />
-<img height="32" width="46" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
+<img height="32" width="46" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" /> -->
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -38,17 +38,27 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![MongoDB](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=MongoDB)
 
+<!-- 
 ## DataBase
 
 <img height="32" width="32" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" />
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> -->
 
 ## &#x1f4c8; GitHub Stats
+
+<br/>
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=haris-aqeel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haris-aqeel&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+<br/>
 
 <!-- ![Ahsan's github stats](https://github-readme-stats.vercel.app/api?username=ahsantariq792&count_private=true&hide=prs&show_icons=true&theme=chartreuse-dark) -->
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahsantariq792&show_icons=true&theme=synthwave" alt="ahsantariq792" /> </p>
