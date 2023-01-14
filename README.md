@@ -69,12 +69,4 @@
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahsantariq792&show_icons=true&theme=synthwave" alt="ahsantariq792" /> </p> -->
 
 
-## &#x1f4c8; Top Languages
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsantariq792&theme=highcontrast&langs_count=8)](https://github.com/ahsantariq792/github-readme-stats)
-
-<!-- Contribution graph -->
-<img src="https://activity-graph.herokuapp.com/graph?username=ahsantariq792&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
-
 
