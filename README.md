@@ -43,7 +43,8 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![MongoDB](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=MongoDB)
-
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
