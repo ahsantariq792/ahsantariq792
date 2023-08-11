@@ -42,7 +42,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![MongoDB](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=MongoDB)
+![MongoDB](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 
