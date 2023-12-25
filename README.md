@@ -2,7 +2,7 @@
 <h1 align="center">Software Engineer | NED-UET | :pakistan: ✨</h1>
 <h1 align="center">MERNstack Developer | Full Stack Developer</h1>
 
-- 🔭 I’m currently working on Python C++ Javascript React React Native and MERNstack Development:black_heart: :black_heart:
+- 🔭 I’m currently working on Python C# Javascript React React Native Dotnet DotnetCore and MERNstack Development:black_heart: :black_heart:
 - 🌱 I’m currently learning BlockChain :fire:
 - 👯 I’m looking to collaborate on Web development Projects :boom:
 - 💬 Ask me about any query, I will definitely help if I know that... :slightly_smiling_face:
